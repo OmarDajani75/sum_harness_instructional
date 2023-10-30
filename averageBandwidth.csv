@@ -1,0 +1,9 @@
+# author: Omar Dajani, Oct 2023
+# sample data for use with the plot_3vars.py file
+Problem Size,sum_direct,sum_vector,sum_indirect
+8388608,0.07,0.34,3.46
+16777216,0.07,0.26,3.18
+33554432,0.07,0.26,6.10
+67108864,0.07,0.26,5.88
+134217728,0.07,0.24,5.92
+268435456,0.07,0.24,6.03
